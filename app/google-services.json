@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "952693346686",
+    "firebase_url": "https://barracks2-cfcd8.firebaseio.com",
+    "project_id": "barracks2-cfcd8",
+    "storage_bucket": "barracks2-cfcd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952693346686:android:c95d68e728919043",
+        "android_client_info": {
+          "package_name": "com.x1.xfactor.barracks2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952693346686-9n6ibb7sdj0cfteoc2g5kmd58q4hj5h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.x1.xfactor.barracks2",
+            "certificate_hash": "5f10c9ef13a3a7734d3b68c028a670f779090690"
+          }
+        },
+        {
+          "client_id": "952693346686-hbat5alvvtv7ogj0atsonkkphpkc0an3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnB7iYIoXGsqgfK-L50BihY21YrkVAvwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952693346686-hbat5alvvtv7ogj0atsonkkphpkc0an3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
